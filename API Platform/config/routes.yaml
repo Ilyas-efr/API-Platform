@@ -1,0 +1,4 @@
+api_doc:
+    path: /api
+    controller: api_platform.action.documentation
+
